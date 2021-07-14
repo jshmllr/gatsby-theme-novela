@@ -1,6 +1,6 @@
 # Novela is archived
 
-### We are building **[Fey](https://www.feyapp.com)**, a tool for strategic, focused trading for self-directed investors.
+### Narative is currently building **[Fey](https://www.feyapp.com)**, a tool for strategic, focused trading for self-directed investors.
 
 <br />
 
